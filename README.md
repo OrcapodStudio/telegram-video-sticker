@@ -46,7 +46,7 @@ With ffmpeg 6.1 on a 6-second 1080x1920, 60 FPS clip with sound and a GPS tag: 2
 
 ## On an iPhone instead
 
-The full guide, including the reasons Telegram rejects a file, is at [weejistick.com/guides/telegram-video-stickers](https://weejistick.com/guides/telegram-video-stickers). Disclosure: that site is ours, and we also make [Weejistick](https://weejistick.com), an iPhone app that does the same conversion on the phone. These scripts are free and stand on their own.
+The full guide, including the reasons Telegram rejects a file, is at [weejistick.com/guides/telegram-video-stickers](https://weejistick.com/guides/telegram-video-stickers). Disclosure: that site is ours, and we also make [Weejistick](https://weejistick.com), an iPhone app that does the same conversion on the phone ([App Store](https://apps.apple.com/app/apple-store/id6795666525?pt=129223846&ct=gh-readme&mt=8&ppid=f0fdb46f-1ebd-4314-9ad3-4d17e9bad5eb)). These scripts are free and stand on their own.
 
 ## License
 
